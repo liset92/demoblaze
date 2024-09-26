@@ -11,5 +11,5 @@
 ## Ejecución
 
 ```bash
-mvn clean test
+mvn clean verify
 ```
